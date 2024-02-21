@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b4ef530-735c-45e5-8171-a813219cec41" name="Changes" comment="Classe count">
+    <list default="true" id="6b4ef530-735c-45e5-8171-a813219cec41" name="Changes" comment="Uso do incremento">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/calc.java" afterDir="false" />
     </list>
@@ -139,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708475402532</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Uso do incremento">
+      <created>1708475728315</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708475728315</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +165,7 @@
     <MESSAGE value="Hello world" />
     <MESSAGE value="Usando o console" />
     <MESSAGE value="Classe count" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classe count" />
+    <MESSAGE value="Uso do incremento" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uso do incremento" />
   </component>
 </project>

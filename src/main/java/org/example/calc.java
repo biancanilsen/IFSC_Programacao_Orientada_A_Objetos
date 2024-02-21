@@ -20,9 +20,21 @@ public class calc {
 
         // Uso do incremento:
         int x = 30;
+
+//        x = 30;
+//        Valor no print = 30
         System.out.println(x++);
+
+//        x = 31;
+//        Valor no print = 31
         System.out.println(x--);
+
+//        x = 30;
+//        Valor no print = 32
         System.out.println(++x);
+
+//        x = 32;
+//        Valor no print = 31
         System.out.println(--x);
         System.out.println("\n\n\n\n\n\n");
 
