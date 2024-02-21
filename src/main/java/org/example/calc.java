@@ -17,5 +17,14 @@ public class calc {
         Double valor = 2d;
         Double res1 = valor*2;
         System.out.printf("Resultado" +res1);
+
+        // Uso do incremento:
+        int x = 30;
+        System.out.println(x++);
+        System.out.println(x--);
+        System.out.println(++x);
+        System.out.println(--x);
+        System.out.println("\n\n\n\n\n\n");
+
     }
 }
